@@ -35,3 +35,4 @@ This project aims to predict diabetes and visualize patient data using various h
   pip install -r requirements.txt
 
 ![](Images/Front.png)
+![]([Images/Front.png](https://github.com/Neeraj227/Diabetes_pred/blob/c1b9909dab119bf085c6328f5c5892161d6933aa/Images/Visualized%20Patient%20Report1.png))
