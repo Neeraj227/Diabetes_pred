@@ -34,4 +34,5 @@ This project aims to predict diabetes and visualize patient data using various h
   ```bash
   pip install -r requirements.txt
 
+![](Images/Visualized Patient Report1.png)
 
